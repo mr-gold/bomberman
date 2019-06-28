@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bomberman HowTo",
+"productVersion": "1.0",
+"dataUrl": "af11fdcb7eee05e27c3d954b8de434ca.unityweb",
+"wasmCodeUrl": "fa8ee4ce430c9ff3bf727033c6e7b67b.unityweb",
+"wasmFrameworkUrl": "5625e3cd908b5fb310832f01621009e0.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
